@@ -22,7 +22,7 @@
 - 👨‍💻 Atualmente estudando <b>Java</b>, <b>JavaScript</b>, <b>HTML</b>, <b>CSS</b>, <b>C</b>, <b>C#</b>, <b>C++</b> e <b>PYTHON</b>
 - 🧠 Curioso por <b>JOGOS</b>, <b>Programção</b>, <b>interfaces gráficas</b> e <b>design de software</b>
 - 🗂️ Trabalhos acadêmicos organizados no repositório 👉 [Trabalhos Acadêmicos](https://github.com/Thiago-C-Ramos/trabalhos-academicos)
-- 🧪 Explorando ferramentas como Git, GitHub, VS Code e After Effects
+- 🧪 Explorando ferramentas como Git, GitHub, VS Code, Unreal Engine e After Effects
 - 💬 Sempre aberto a trocar ideias sobre tecnologia e criatividade!
 
 ---
