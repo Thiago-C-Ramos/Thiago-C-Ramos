@@ -27,6 +27,34 @@
 
 ---
 
+<h3>🧠 CONHECIMENTOS</h3>
+
+<p>-> <b> Linguagens de Programação </b> <-</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p>-> <b> Idiomas </b> <-</p>
+
+<p>
+  🗣️ <strong>Idiomas:</strong> Inglês Fluente <code>🇺🇸/uk</code> | Japonês Iniciante <code>🇯🇵</code>
+</p>
+
+<p>-> <b> Ferramentas / Softwares </b> <-</p>
+
+<p>
+  🛠️ <strong>Softwares e Ferramentas:</strong> Unreal Engine 4 & 5 | VS Code | Filmora | Adobe Audition | Adobe Premiere Pro | Adobe After Effects
+</p>
+
+---
+
 <h3>📊 MEUS STATUS:</h3>
 
 <p align="center">
@@ -47,7 +75,7 @@
 <h3>✨ MEU LEMA:</h3>
 
 <p align="center">
-  <img src="https://yourhost.com/criatividade-em-acao.gif" alt="Criatividade em ação" />
+  <img src="https://github.com/Thiago-C-Ramos/Thiago-C-Ramos/blob/main/CEA.gif" alt="Criatividade em Ação" />
 </p>
 
 ---
