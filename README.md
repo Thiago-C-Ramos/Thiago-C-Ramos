@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FFEA&center=true&vCenter=true&width=1000&lines=🎓+Estudante+de+Sistemas+de+Informação+na+UVA;💻+Apaixonado+por+Programação+Web%2C+Desenvolvimento+de+Sistemas+e+Visual;🎮+Criador+de+conteúdo+no+YouTube+%7C+Editor+de+Vídeo+%7C+Game+Dev+com+Unreal+Engine" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FFEA&center=true&vCenter=true&width=1000&lines=🎓+Estudante+de+Sistemas+de+Informação+na+UVA;💻+Apaixonado+por+Programação+Web%2C+Desenvolvimento+de+Sistemas+e+Visual;🎮+Desenvolvedor+Fullstack+%7C+Editor+de+Vídeo+%7C+Game+Dev+com+Unreal+Engine" />
 </p>
 
 ---
