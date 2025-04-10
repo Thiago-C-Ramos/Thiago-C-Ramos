@@ -64,7 +64,7 @@
 <h3>📊 MEUS STATUS:</h3>
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Thiago-C-Ramos&show_icons=true&theme=github_dark" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Thiago-C-Ramos&show_icons=true&theme=github_dark&cache_seconds=60" />
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-C-Ramos&layout=compact&theme=github_dark&cache_seconds=60" />
 </p>
 
@@ -73,7 +73,7 @@
 <h3>🏆 MINHAS CONQUISTAS:</h3>
 
 <p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Thiago-C-Ramos&theme=darkhub&no-bg=true" />
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Thiago-C-Ramos&theme=darkhub&no-bg=true&cache_seconds=60" />
 </p>
 
 ---
