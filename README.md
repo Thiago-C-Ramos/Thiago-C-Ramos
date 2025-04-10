@@ -65,7 +65,7 @@
 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Thiago-C-Ramos&show_icons=true&theme=github_dark" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-C-Ramos&layout=compact&theme=github_dark" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-C-Ramos&layout=compact&theme=github_dark&cache_seconds=60" />
 </p>
 
 ---
