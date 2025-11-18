@@ -1,0 +1,98 @@
+<p align="right">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/EN-00C853?style=for-the-badge&logoColor=white&label=PT" />
+  </a>
+</p>
+
+<h1 align="center"><b>👋 Hello! I'm Thiago Cardoso dos Santos Ramos</b></h1>
+  
+<p align="center">
+    
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiago-C-Ramos)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-c-ramos)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Thiago_C4rdoso)
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago_c4rdoso/)
+  
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FFEA&center=true&vCenter=true&width=1000&lines=🎓+Information+Systems+Student+at+UVA;💻+Passionate+about+Web+Programming%2C+Systems+and+Visual+Development;🎮+Fullstack+Developer+%7C+Video+Editor+%7C+Game+Dev+with+Unreal+Engine" />
+</p>
+
+---
+
+<h3>🚀 ABOUT ME</h3>
+
+- 👨‍💻 Currently studying <b>Java</b>, <b>JavaScript</b>, <b>HTML</b>, <b>CSS</b>, <b>C</b>, <b>C#</b>, <b>C++</b>, and <b>PYTHON</b>
+- 🧠 Interested in <b>GAMES</b>, <b>Programming</b>, <b>GUI design</b>, and <b>software design</b>
+- 🗂️ Academic works organized in the repository 👉 [Academic Projects](https://github.com/Thiago-C-Ramos/trabalhos-academicos)
+- 🧪 Exploring tools like Git, GitHub, VS Code, Unreal Engine, and After Effects
+- 💬 Always open to exchanging ideas about technology and creativity!
+
+---
+
+<h3>🧠 SKILLS</h3>
+
+<h4><b>🧪 Programming Languages</b></h4>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<h4><b>🗣️ Languages</b></h4>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/English%20Fluent-FF0000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Japanese%20Beginner-white?style=for-the-badge&logoColor=black" />
+</p>
+
+<h4><b>🛠️ Tools / Software</b></h4>
+
+<p align="left">
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+  <a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" /></a>
+  <a href="https://www.adobe.com/products/premiere.html"><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" /></a>
+  <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" /></a>
+  <a href="https://www.adobe.com/products/audition.html"><img src="https://img.shields.io/badge/Adobe%20Audition-9999FF?style=for-the-badge&logo=adobe-audition&logoColor=white" /></a>
+  <a href="https://filmora.wondershare.com/"><img src="https://img.shields.io/badge/Filmora-0C9EFF?style=for-the-badge&logo=filmora&logoColor=white" /></a>
+</p>
+
+---
+
+<h3>📊 MY STATS:</h3>
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Thiago-C-Ramos&show_icons=true&theme=github_dark&cache_seconds=60" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-C-Ramos&layout=compact&theme=github_dark&cache_seconds=60" />
+</p>
+
+---
+
+<h3>🏆 MY ACHIEVEMENTS:</h3>
+
+<p align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Thiago-C-Ramos&theme=darkhub&no-bg=true&cache_seconds=60" />
+</p>
+
+---
+
+<h3>✨ MY MOTTO:</h3>
+
+<p align="center">
+  <img src="CEA.gif" alt="Criatividade em Ação — edição | programação | game dev" title="Criatividade em Ação — edição | programação | game dev" />
+</p>
+
+---
+
+<h3>📜 LICENSE</h3>
+
+This profile is maintained for learning, networking, and sharing experiences.  
+Feel free to get inspired, clone, and build your own!
