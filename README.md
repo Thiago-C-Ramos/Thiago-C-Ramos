@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="./README-EN.md">
+    <img src="https://img.shields.io/badge/PT-00C853?style=for-the-badge&logoColor=white&label=EN" />
+  </a>
+</p>
+
 <h1 align="center"><b>👋 Olá! Sou o Thiago Cardoso dos Santos Ramos</b></h1>
   
 <p align="center">
